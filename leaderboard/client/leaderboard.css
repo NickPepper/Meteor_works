@@ -1,0 +1,7 @@
+.player {
+	/*border: 1px solid green;*/
+}
+
+.selected {
+  background-color: lime;
+}
